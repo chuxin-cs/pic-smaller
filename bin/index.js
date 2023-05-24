@@ -8,7 +8,7 @@ const {program} = require('commander');
 const download = require('download-git-repo');
 
 const pkg = require("../package.json");
-const createCommander = require("../src/core/createCommander");
+const createCommander = require("./core/createCommander");
 
 program
     .version(`1.0.0`, '-v --version')
