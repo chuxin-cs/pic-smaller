@@ -4,7 +4,8 @@
   "description": "初心脚手架~",
   "main": "index.js",
   "scripts": {
-    "dev": ""
+    "dev": "",
+    "build": ""
   },
   "bin": {
     "chuxin": "./bin/index.js"
