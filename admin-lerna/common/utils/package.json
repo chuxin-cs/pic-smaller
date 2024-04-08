@@ -1,0 +1,14 @@
+{
+  "name": "@common/utils",
+  "version": "0.0.0",
+  "description": "通用 config",
+  "author": "chuxin",
+  "homepage": "",
+  "license": "ISC",
+  "type": "module",
+  "module": "index.js",
+  "devDependencies": {},
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  }
+}
