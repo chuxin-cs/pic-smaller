@@ -1,1 +1,1 @@
-# mini-vue
+# vue-demo
