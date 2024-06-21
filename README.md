@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/chuxin-cs" target="_blank">Todo List</a>
+    <a href="https://github.com/chuxin-cs" target="_blank">Vue Demo</a>
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <span>英文 | <a href="./README.zh-CN.md">中文</a></span>
+  <span>English | <a href="./README.zh-CN.md">中文</a></span>
 </p>
 
 ### 功能清单
