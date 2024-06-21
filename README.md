@@ -4,13 +4,13 @@
 
 <p align="center">
     <a href="https://v2.cn.vuejs.org/">
-        <img alt="JDK" src="https://img.shields.io/badge/Vue-2.7.0_162-orange.svg"/>
+        <img alt="JDK" src="https://img.shields.io/badge/Vue-2.7.0-orange.svg"/>
     </a>
     <a href="https://cn.vuejs.org/guide/introduction.html">
-        <img alt="JDK" src="https://img.shields.io/badge/Vue-3.3.0_162-orange.svg"/>
+        <img alt="JDK" src="https://img.shields.io/badge/Vue-3.3.0-orange.svg"/>
     </a>
     <a href="https://cn.vitejs.dev/guide/">
-        <img alt="JDK" src="https://img.shields.io/badge/Vite-4.0.0_162-orange.svg"/>
+        <img alt="JDK" src="https://img.shields.io/badge/Vite-4.0.0-orange.svg"/>
     </a>
 </p>
 
@@ -19,6 +19,6 @@
 </p>
 
 ### 功能清单
-| 功能名称  |  文档链接  | 功能描述 |
+| name  |  document  | 功能描述 |
 | -------- | --------- |--------- |
 |   |     |  |
