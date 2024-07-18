@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.29"
+    "pinia": "^2.1.7",
+    "vue": "^3.4.29",
+    "vue-router": "4"
   },
   "devDependencies": {
+    "@types/node": "^20.14.11",
     "@vitejs/plugin-vue": "^5.0.5",
     "typescript": "^5.2.2",
     "vite": "^5.3.1",
