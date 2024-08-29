@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/chuxin-cs" target="_blank">Vue Demo</a>
+  <a href="https://github.com/chuxin-cs" target="_blank">chuxin template</a>
 </h1>
 
 <p align="center">
